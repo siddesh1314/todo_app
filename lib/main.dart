@@ -7,6 +7,7 @@ void main() {
   runApp(MaterialApp(
     title: 'to do and to schedule',
     debugShowCheckedModeBanner: false,
+    debugShowCheckedModeBanner: true,
     home: MainScreen(),
   ));
 }
