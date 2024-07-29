@@ -6,7 +6,7 @@ import 'addscreen.dart';
 void main() {
   runApp(MaterialApp(
     title: 'to do and to schedule',
-    debugShowCheckedModeBanner: true,
+    debugShowCheckedModeBanner: false,
     home: MainScreen(),
   ));
 }
